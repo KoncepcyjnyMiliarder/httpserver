@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>404 Not found</title>
-</head>
-<body>
-The file you requested does not exist on the server.
-</body>
-</html>
