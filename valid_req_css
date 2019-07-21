@@ -1,0 +1,5 @@
+GET /css/bootstrap.min.css HTTP/1.0
+Host: domena1.sieci.edu
+Connection: close
+
+

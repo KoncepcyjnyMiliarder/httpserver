@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>501 Not implemented</title>
+</head>
+<body>
+Your request is incomprehensible.
+</body>
+</html>
