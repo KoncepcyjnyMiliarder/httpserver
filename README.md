@@ -6,6 +6,11 @@ The full specification (in polish language) is given [here](https://github.com/K
 
 ## How to use?
 
+Make sure you have the basic c++ build packages
+```
+apt install build-essential g++
+```
+
 Building with `make`
 
 ![Build](https://raw.githubusercontent.com/KoncepcyjnyMiliarder/httpserver/master/build.png)
